@@ -12,10 +12,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/danywheeler/passport-wechat-auth.git"
+    "url": "git@github.com:arrking/passport-wechat-auth.git"
   },
   "bugs": {
-    "url": "https://github.com/danywheeler/passport-wechat-auth/issues"
+    "url": "https://github.com/arrking/passport-wechat-auth.git/issues"
   },
   "author": {
     "name": "jeremy",
@@ -30,7 +30,7 @@
   ],
   "dependencies": {
     "pkginfo": "0.2.x",
-    "passport-utils": "latest"
+    "passport-utils": "0.1.0"
   },
   "devDependencies": {
     "vows": "0.6.x"
