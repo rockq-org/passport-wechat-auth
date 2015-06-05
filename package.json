@@ -1,0 +1,68 @@
+{
+  "name": "passport-wechat-auth",
+  "version": "0.0.1",
+  "description": "Wechat (OAuth) authentication strategies for Passport.",
+  "keywords": [
+    "passport",
+    "wechat",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danywheeler/passport-wechat-auth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danywheeler/passport-wechat-auth/issues"
+  },
+  "author": {
+    "name": "jeremy",
+    "email": "c.yongfang@gmail.com",
+    "url": "http://www.joymv.net/"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "pkginfo": "0.2.x",
+    "passport-utils": "latest"
+  },
+  "devDependencies": {
+    "vows": "0.6.x"
+  },
+  "scripts": {
+    "test": "NODE_PATH=lib node_modules/.bin/vows test/*-test.js"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "_npmUser": {
+    "name": "joymv",
+    "email": "c.yongfang@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "joymv",
+      "email": "c.yongfang@gmail.com"
+    }
+  ],
+  "homepage": "https://github.com/danywheeler/passport-wechat-auth",
+  "gitHead": "8d48cce82906764d9dcbf7b9dd0590b0b405c299",
+  "_id": "passport-wechat-auth@0.0.1",
+  "_shasum": "aa8107a0f0a495c5f335383b1ba85bc451dc477e",
+  "_from": "passport-wechat-auth@*",
+  "_npmVersion": "2.5.1",
+  "_nodeVersion": "0.12.0",
+  "dist": {
+    "shasum": "aa8107a0f0a495c5f335383b1ba85bc451dc477e",
+    "tarball": "http://registry.npmjs.org/passport-wechat-auth/-/passport-wechat-auth-0.0.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/passport-wechat-auth/-/passport-wechat-auth-0.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
